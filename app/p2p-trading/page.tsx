@@ -190,22 +190,22 @@ export default function P2PTrading() {
                 <button className="w-10 h-10 flex items-center justify-center rounded-full text-foreground hover:bg-[#1A1F32] transition-colors">
                     <ChevronLeft className="h-4 w-4" />
                 </button>
-                <button className="w-10 h-10 flex items-center justify-center rounded-full bg-white text-black font-medium">
+                <button className="w-10 h-10 flex items-center justify-center rounded-full bg-white text-[#212741] font-medium">
                     1
                 </button>
-                <button className="w-10 h-10 flex items-center justify-center rounded-full border border-[#6F7794] text-foreground hover:bg-[#1A1F32] transition-colors">
+                <button className="w-10 h-10 flex items-center bg-[#6f7695] justify-center rounded-full border border-[#6F7794] text-[#212741] hover:bg-[#1A1F32] transition-colors">
                     2
                 </button>
-                <button className="w-10 h-10 flex items-center justify-center rounded-full border border-[#6F7794] text-foreground hover:bg-[#1A1F32] transition-colors">
+                <button className="w-10 h-10 flex items-center bg-[#6f7695] justify-center rounded-full border border-[#6F7794] text-[#212741] hover:bg-[#1A1F32] transition-colors">
                     3
                 </button>
-                <button className="w-10 h-10 flex items-center justify-center rounded-full border border-[#6F7794] text-foreground hover:bg-[#1A1F32] transition-colors">
+                <button className="w-10 h-10 flex items-center bg-[#6f7695] justify-center rounded-full border border-[#6F7794] text-[#212741] hover:bg-[#1A1F32] transition-colors">
                     4
                 </button>
-                <button className="w-10 h-10 flex items-center justify-center rounded-full border border-[#6F7794] text-foreground hover:bg-[#1A1F32] transition-colors">
+                <button className="w-10 h-10 flex items-center bg-[#6f7695] justify-center rounded-full border border-[#6F7794]  text-[#212741] hover:bg-[#1A1F32] transition-colors">
                     5
                 </button>
-                <button className="w-10 h-10 flex items-center justify-center rounded-full text-foreground hover:bg-[#1A1F32] transition-colors">
+                <button className="w-10 h-10 flex items-center justify-center rounded-full text-white hover:bg-[#1A1F32] transition-colors">
                     <ChevronRight className="h-4 w-4" />
                 </button>
             </div>
